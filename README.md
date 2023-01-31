@@ -1,5 +1,5 @@
 # tylersauerbier.github.io
-## Tyler Sauerbier]
+## Tyler Sauerbier
 
 Welcome to my GitHub page.
 
